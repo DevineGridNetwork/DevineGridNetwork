@@ -1,0 +1,109 @@
+## Hi there 👋
+
+<!--
+**DevineGridNetwork/DevineGridNetwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Citizenship & Status Correction</title>
+  <style>
+    body {
+      font-family: Georgia, serif;
+      background-color: #fff;
+      color: #000;
+      padding: 40px;
+      line-height: 1.7;
+    }
+    h1, h2 {
+      border-bottom: 2px solid #000;
+      padding-bottom: 5px;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    .section {
+      margin-top: 40px;
+    }
+    .important {
+      background-color: #f9f9f9;
+      border-left: 4px solid #000;
+      padding: 15px;
+      margin-top: 20px;
+    }
+    a.button {
+      display: inline-block;
+      padding: 10px 20px;
+      margin-top: 20px;
+      background-color: #000;
+      color: #fff;
+      text-decoration: none;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Citizenship & Status Correction</h1>
+
+  <p>This section offers private and lawful remedies to correct your status, define your sovereignty, and establish your citizenship under Divine, Natural, and Constitutional authority.</p>
+
+  <div class="section">
+    <h2>What Is Status Correction?</h2>
+    <p>Status correction is the lawful act of reclaiming your position as a living man or woman — not as a corporate fiction or government-controlled entity. By correcting your status, you stand under:</p>
+    <ul>
+      <li>Natural Law</li>
+      <li>Universal Law</li>
+      <li>Common Law</li>
+      <li>The 1776 Organic Constitution</li>
+      <li>Recognized Treaties and Divine Authority</li>
+    </ul>
+    <p>It is your birthright to correct your standing, return to the land and soil jurisdiction, and no longer be subject to statutory presumptions without your consent.</p>
+  </div>
+
+  <div class="section">
+    <h2>Types of Status Correction Offered</h2>
+    <ul>
+      <li>Private Citizenship Declaration</li>
+      <li>Divine Citizenship Affidavit</li>
+      <li>Sovereign Man/Woman Status Notice</li>
+      <li>American National (Land Jurisdiction)</li>
+      <li>Non-U.S. Person Standing</li>
+      <li>Foreign National / Non-Resident Alien Status</li>
+      <li>Tartarian Citizen Recognition (Spiritual & Ancient Law)</li>
+    </ul>
+    <p>Each path includes notarized documents, official filing instructions, and coaching if needed.</p>
+  </div>
+
+  <div class="section">
+    <h2>Benefits of Status Correction</h2>
+    <ul>
+      <li>Get out of corporate contracts (like fraudulent licenses and taxes)</li>
+      <li>Operate lawfully without trespassing statutes</li>
+      <li>Access to sovereign protections</li>
+      <li>Reclaim your children, property, and estate under trust</li>
+      <li>Operate in Private: Travel, trade, and live as a natural being</li>
+      <li>Stand outside of U.S. jurisdiction while still on U.S. soil</li>
+    </ul>
+  </div>
+
+  <div class="important">
+    <p><strong>Note:</strong> We provide education, templates, and private consultations. You must study, affirm your will, and accept your responsibility as a sovereign being. Nothing is automatic. Remedy comes through knowledge and divine action.</p>
+  </div>
+
+  <a href="/consultation-booking" class="button">Book Status Correction Consultation</a>
+
+</body>
+</html>
