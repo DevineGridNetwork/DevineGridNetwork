@@ -1,0 +1,85 @@
+## Hi there 👋
+
+<!--
+**DevineGridNetwork/DevineGridNetwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Divine Court Forms</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #fff;
+      color: #000;
+      padding: 30px;
+      line-height: 1.6;
+    }
+    h1, h2 {
+      border-bottom: 2px solid #000;
+      padding-bottom: 5px;
+    }
+    .form-section {
+      margin-top: 40px;
+    }
+    .form-list {
+      margin-top: 20px;
+    }
+    .form-list li {
+      margin-bottom: 10px;
+    }
+    .note {
+      font-size: 0.9em;
+      color: #333;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Divine Private Court Forms</h1>
+
+  <p>This page provides access to sacred and sovereign legal documents for use within the Divine Private Court system — governed under:</p>
+  <ul>
+    <li>Natural Law</li>
+    <li>Universal Law</li>
+    <li>Common Law</li>
+    <li>Cosmic Law</li>
+    <li>Constitutional Law (1776 Organic)</li>
+    <li>Ecclesiastical Law</li>
+    <li>Recognized International Treaties</li>
+  </ul>
+
+  <div class="form-section">
+    <h2>Available Forms</h2>
+    <ul class="form-list">
+      <li><a href="#">Notice of Claim Form</a></li>
+      <li><a href="#">Affidavit of Truth</a></li>
+      <li><a href="#">Cease and Desist Notice</a></li>
+      <li><a href="#">Claim for Remedy</a></li>
+      <li><a href="#">Declaration of Standing</a></li>
+      <li><a href="#">Public Notice Filing</a></li>
+    </ul>
+    <p class="note">Each form is priced individually and includes guided instructions.</p>
+  </div>
+
+  <div class="form-section">
+    <h2>Submit a Case</h2>
+    <p>To submit a case for review by the Divine Private Court, please visit the <strong>Court Case Filing Page</strong> or book a private consultation below.</p>
+    <a href="/consultation-booking" style="font-weight:bold;">→ Book a Consultation</a>
+  </div>
+
+</body>
+</html>
