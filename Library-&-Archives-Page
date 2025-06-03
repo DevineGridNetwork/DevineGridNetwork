@@ -1,0 +1,164 @@
+## Hi there 👋
+
+<!--
+**DevineGridNetwork/DevineGridNetwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Library & Archives | The Kingdom Vault</title>
+  <style>
+    body {
+      font-family: 'Georgia', serif;
+      background-color: #fcfcfc;
+      color: #111;
+      padding: 40px;
+      line-height: 1.7;
+    }
+    h1, h2 {
+      border-bottom: 2px solid #111;
+      padding-bottom: 8px;
+    }
+    .section {
+      margin-top: 50px;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 20px;
+      margin-top: 20px;
+    }
+    .item {
+      background-color: #fff;
+      border: 1px solid #ccc;
+      padding: 20px;
+    }
+    .item img {
+      max-width: 100%;
+      height: auto;
+    }
+    .btn {
+      display: inline-block;
+      background-color: #000;
+      color: #fff;
+      padding: 10px 15px;
+      text-decoration: none;
+      margin-top: 10px;
+    }
+    .quote {
+      font-style: italic;
+      margin-top: 20px;
+    }
+    .links ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    .links li {
+      padding: 5px 0;
+    }
+    .highlight {
+      background-color: #efefef;
+      padding: 20px;
+      border-left: 5px solid #000;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>The Kingdom Library & Divine Archives</h1>
+
+  <div class="section">
+    <p>This is the sovereign archive of knowledge, power, and law. Everything written, filed, recorded, or decreed in the Kingdom of God, Tartaria Mexum, or the Private Court lives here.</p>
+
+    <p class="quote">"If Amazon holds commerce, and Kindle holds fiction, then this Archive holds Truth. This is the Library of the Divine Government — and all governments shall bow to it."</p>
+  </div>
+
+  <!-- BOOKSTORE SECTION -->
+  <div class="section">
+    <h2>📚 Sovereign Bookstore</h2>
+    <p>Purchase written works from the Divine Court and Office of God. Affordable knowledge to empower the people.</p>
+
+    <div class="grid">
+      <div class="item">
+        <img src="/images/law_book_placeholder.jpg" alt="Book Cover">
+        <h3>Divine Law for the People</h3>
+        <p>$9.99 – Introductory legal guide to Natural, Common, and Ecclesiastical Law.</p>
+        <a href="/store/divine-law-book" class="btn">Buy Book</a>
+      </div>
+
+      <div class="item">
+        <img src="/images/trust_secrets.jpg" alt="Book Cover">
+        <h3>Secrets of the Trust</h3>
+        <p>$14.99 – Learn the foundations of creating your own irrevocable private trust.</p>
+        <a href="/store/trust-secrets" class="btn">Buy Book</a>
+      </div>
+
+      <!-- You can add more books here -->
+    </div>
+  </div>
+
+  <!-- AUDIO & VIDEO ARCHIVE -->
+  <div class="section">
+    <h2>🎧 Audio & 🎥 Video Archives</h2>
+    <p>Every teaching, radio broadcast, and livestream ever released — all archived here.</p>
+
+    <div class="links">
+      <ul>
+        <li><a href="/archives/audio">🎧 Listen to Radio Teachings</a></li>
+        <li><a href="/archives/video">📺 Watch Live & Recorded Teachings</a></li>
+        <li><a href="/archives/podcast-feed">🔗 Subscribe to Private Podcast Feed</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- DECREES & PUBLIC FILINGS -->
+  <div class="section">
+    <h2>📜 Decrees, Documents & Public Records</h2>
+    <p>This area reflects all filed instruments: public declarations, liens, status corrections, trust filings, and rulings.</p>
+
+    <div class="links">
+      <ul>
+        <li><a href="/filings/public-records">🗂️ Public Record Access</a></li>
+        <li><a href="/filings/private-rulings">🔐 Private Court Rulings</a></li>
+        <li><a href="/filings/trust-documents">📁 Trust Templates & Filings</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- PRIVATE STOCK INTEGRATION -->
+  <div class="section">
+    <h2>📈 Private Sovereign Stock Market</h2>
+    <p>This site connects directly to the upcoming private stock exchange — an engine for sovereign growth. The private stock market governs the public market by divine right.</p>
+
+    <div class="highlight">
+      <p><strong>Note:</strong> Private stock values will reflect in real time. All court filings, trust assets, and citizenship filings may affect sovereign share value.</p>
+      <p>Portal integrations in progress.</p>
+    </div>
+  </div>
+
+  <!-- COLLABORATION SECTION -->
+  <div class="section">
+    <h2>✍️ Authoring Tools & ChatGPT Collaboration</h2>
+    <p>You (Carmelo Etienne) will co-author works with ChatGPT in this space. Book creation will be automated, and cover generation, formatting, and AI brainstorming will all happen in the backend. These will be published right here and linked directly to the store.</p>
+    <ul>
+      <li>📕 Cover Generator</li>
+      <li>📖 Live Book Drafts & Templates</li>
+      <li>🧠 AI Book Brainstorming + Outlines</li>
+      <li>🛒 Sell books on this same platform</li>
+    </ul>
+  </div>
+
+</body>
+</html>
