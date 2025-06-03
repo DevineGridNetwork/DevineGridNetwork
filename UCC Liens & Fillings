@@ -1,0 +1,44 @@
+## Hi there 👋
+
+<!--
+**DevineGridNetwork/DevineGridNetwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>UCC Liens & Filings</title>
+  <style>
+    body { font-family: sans-serif; padding: 2rem; background: #f4f4f4; }
+    h1 { color: #0d1b2a; }
+    section { background: #fff; padding: 2rem; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+    ul { list-style: none; padding-left: 0; }
+    li { margin-bottom: 1rem; }
+  </style>
+</head>
+<body>
+  <h1>UCC Liens & Filings</h1>
+  <section>
+    <p>This page allows you to upload and view Universal Commercial Code (UCC) liens and filings against agencies, courts, and individuals who have violated Natural and Divine Law.</p>
+
+    <ul>
+      <li><strong>Example:</strong> FDLE – $100 Trillion Lien Filed – March 2025</li>
+      <li><strong>Example:</strong> DCF Agent #002 – $10 Trillion in Private Capacity</li>
+    </ul>
+
+    <p><a href="file-record.html">Click here to file a new lien.</a></p>
+  </section>
+</body>
+</html>
