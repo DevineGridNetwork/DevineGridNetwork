@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Divine Grid</title>
+  <style>
+    body {
+      background-color: #111;
+      color: #fff;
+      font-family: sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    header, footer {
+      background-color: #222;
+      padding: 20px;
+      text-align: center;
+    }
+    main {
+      padding: 20px;
+    }
+    a.button {
+      background-color: #00c853;
+      color: #000;
+      padding: 10px 20px;
+      display: inline-block;
+      margin-top: 20px;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Welcome to Divine Grid</h1>
+    <p>Powered by the Kingdom | Hosted by the Ether</p>
+  </header>
+  <main>
+    <h2>This is your Starter Grid</h2>
+    <p>This site is being hosted from GitHub and Render. You are sovereign, in control, and protected by divine right.</p>
+    <a href="mailto:yourname@divinegrid.store" class="button">Contact the Creator</a>
+  </main>
+  <footer>
+    <p>&copy; 2025 Divine Grid. All Rights Reserved.</p>
+  </footer>
+</body>
+</html>
