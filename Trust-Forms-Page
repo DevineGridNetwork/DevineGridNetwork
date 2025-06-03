@@ -1,0 +1,130 @@
+## Hi there 👋
+
+<!--
+**DevineGridNetwork/DevineGridNetwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Trust Forms Portal</title>
+  <style>
+    body {
+      font-family: 'Georgia', serif;
+      background-color: #fff;
+      color: #000;
+      margin: 0;
+      padding: 0;
+    }
+    header, footer {
+      background-color: #000;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    main {
+      max-width: 960px;
+      margin: auto;
+      padding: 40px 20px;
+    }
+    h1, h2 {
+      text-align: center;
+      text-transform: uppercase;
+    }
+    .form-card {
+      border: 1px solid #000;
+      margin-bottom: 30px;
+      padding: 20px;
+      background-color: #f9f9f9;
+    }
+    .form-card h3 {
+      margin-top: 0;
+    }
+    .form-card p {
+      margin: 5px 0;
+    }
+    .form-card button {
+      background-color: #000;
+      color: #fff;
+      border: none;
+      padding: 10px 15px;
+      font-size: 1em;
+      cursor: pointer;
+      margin-top: 10px;
+    }
+    .form-card button:hover {
+      background-color: #333;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Trust Forms Portal</h1>
+  <p>Select and purchase the forms you need to build or manage your trust</p>
+</header>
+
+<main>
+
+  <section class="form-card">
+    <h3>Declaration of Trust</h3>
+    <p><strong>Price:</strong> $2,000</p>
+    <p>Foundational legal document declaring the existence and terms of your trust.</p>
+    <button onclick="alert('Form purchase coming soon')">Request Form</button>
+  </section>
+
+  <section class="form-card">
+    <h3>Trust Indenture Agreement</h3>
+    <p><strong>Price:</strong> $1,500</p>
+    <p>Defines the trust duties, beneficiaries, and powers with formal structure.</p>
+    <button onclick="alert('Form purchase coming soon')">Request Form</button>
+  </section>
+
+  <section class="form-card">
+    <h3>Notice of Public Filing</h3>
+    <p><strong>Price:</strong> $1,000</p>
+    <p>Document used to file your trust in public record for full recognition.</p>
+    <button onclick="alert('Form purchase coming soon')">Request Form</button>
+  </section>
+
+  <section class="form-card">
+    <h3>Trust Amendment / Restatement</h3>
+    <p><strong>Price:</strong> $750</p>
+    <p>Used to make changes to an existing trust without starting over.</p>
+    <button onclick="alert('Form purchase coming soon')">Request Form</button>
+  </section>
+
+  <section class="form-card">
+    <h3>Certificate of Trust</h3>
+    <p><strong>Price:</strong> $500</p>
+    <p>Summary of your trust for banks and third parties; protects full terms.</p>
+    <button onclick="alert('Form purchase coming soon')">Request Form</button>
+  </section>
+
+  <section class="form-card">
+    <h3>Custom Trust Forms</h3>
+    <p><strong>Price:</strong> Varies ($300+)</p>
+    <p>Let us know your custom needs — we’ll draft or advise accordingly.</p>
+    <button onclick="alert('Custom form request coming soon')">Request Custom</button>
+  </section>
+
+</main>
+
+<footer>
+  <p>&copy; 2025 Trust Education | Divine Trust System | All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
