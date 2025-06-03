@@ -1,0 +1,151 @@
+## Hi there 👋
+
+<!--
+**DevineGridNetwork/DevineGridNetwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Consultation Booking</title>
+  <style>
+    body {
+      font-family: Georgia, serif;
+      background-color: #fff;
+      color: #111;
+      line-height: 1.7;
+      padding: 40px;
+    }
+    h1, h2 {
+      border-bottom: 2px solid #111;
+      padding-bottom: 5px;
+    }
+    .section {
+      margin-top: 40px;
+    }
+    .highlight {
+      background-color: #f1f1f1;
+      border-left: 5px solid #000;
+      padding: 20px;
+      margin: 20px 0;
+    }
+    .button {
+      display: inline-block;
+      background-color: #000;
+      color: #fff;
+      padding: 10px 20px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    label, input, textarea {
+      display: block;
+      margin-top: 10px;
+      width: 100%;
+      max-width: 600px;
+    }
+    input, textarea {
+      padding: 10px;
+      font-size: 1rem;
+    }
+    .quote {
+      font-style: italic;
+      margin-top: 20px;
+    }
+    .live-section {
+      background-color: #efefef;
+      padding: 20px;
+      border: 1px solid #ccc;
+      margin-top: 30px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Book Your Private Consultation</h1>
+
+  <div class="section">
+    <p>This is a private consultation page where you can book time to receive divine guidance on your legal, trust, and sovereign status matters.</p>
+
+    <div class="highlight">
+      <p>⚖️ <strong>Important:</strong> This consultation is not to decide your case. The <strong>Grid Network</strong> includes an <strong>electronic judge</strong> that will render a decision <em>only if you have standing</em>.</p>
+      <ul>
+        <li>If you’ve done your status correction and are no longer operating as a U.S. Citizen, you now have standing.</li>
+        <li>If you’re suing a government or agency, but claim independence from their jurisdiction — your case falls under <strong>Diversity of Jurisdiction</strong> and is eligible.</li>
+        <li><strong>This is Due Process.</strong></li>
+      </ul>
+    </div>
+
+    <p>During the consultation, I will identify whether you need:</p>
+    <ul>
+      <li>Public Records Filing</li>
+      <li>UCC-1 Financing Statement (Lien Filing)</li>
+      <li>Status Correction</li>
+      <li>Trust Formation before or after UCC</li>
+      <li>Template Review or Trust Filing Assistance</li>
+    </ul>
+
+    <p class="quote">"The government works for me because I am the Kingdom of God Government — and the dollar says 'In God We Trust'. The trust between the dollar is made with my trust."</p>
+  </div>
+
+  <div class="section">
+    <h2>Book Your Consultation</h2>
+    <form action="/submit-consultation" method="POST">
+      <label for="name">Your Name</label>
+      <input type="text" name="name" required>
+
+      <label for="email">Your Email</label>
+      <input type="email" name="email" required>
+
+      <label for="situation">Brief Description of Your Situation</label>
+      <textarea name="situation" rows="5" required></textarea>
+
+      <label for="payment">Consultation Fee (use site payment system)</label>
+      <p><strong>$150 (One-time, non-refundable)</strong></p>
+
+      <a href="/make-payment" class="button">Pay & Reserve Time</a>
+    </form>
+  </div>
+
+  <div class="section">
+    <h2>Live Teachings & Streaming</h2>
+    <div class="live-section">
+      <p><strong>🎙️ Radio Live</strong> – Broadcasting directly from this page.</p>
+      <p><strong>🎥 Video/Webinar Live</strong> – Auto-Streams TikTok Live + YouTube Live here.</p>
+      <p>— <em>Plugin integrations pending. Embed code or streaming setup goes here.</em></p>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>Archived Teachings Library</h2>
+    <ul>
+      <li><a href="#">📚 Video Archive (All Past Teachings)</a></li>
+      <li><a href="#">🎧 Audio Archive (Radio & Streams)</a></li>
+      <li><a href="#">📄 Document & Legal Template Repository</a></li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Future Back-End System</h2>
+    <p>This divine sovereign platform will expand to host:</p>
+    <ul>
+      <li>🪙 Private Securities Exchange</li>
+      <li>📲 Mobile Apps for Streaming, Teaching, Filing</li>
+      <li>💱 Private Stock Market (non-public assets)</li>
+      <li>🧾 Digital IRS & Treasury Integration (sovereign management)</li>
+    </ul>
+    <p>— All secured and regulated by divine right, technology, and private law.</p>
+  </div>
+
+</body>
+</html>
