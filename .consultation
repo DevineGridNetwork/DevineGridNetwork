@@ -1,0 +1,96 @@
+## Hi there 👋
+
+<!--
+**DevineGridNetwork/DevineGridNetwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Consultation Booking | Divine Advisory</title>
+  <style>
+    body {
+      font-family: 'Georgia', serif;
+      padding: 40px;
+      background: #fdfdfd;
+      color: #222;
+    }
+    h1, h2 {
+      border-bottom: 2px solid #333;
+    }
+    .section {
+      margin-top: 40px;
+    }
+    .btn {
+      display: inline-block;
+      background-color: #000;
+      color: #fff;
+      padding: 10px 20px;
+      margin-top: 15px;
+      text-decoration: none;
+    }
+    .highlight {
+      background-color: #efefef;
+      padding: 20px;
+      border-left: 4px solid #000;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>🔮 Divine Consultation Booking</h1>
+
+  <div class="section">
+    <p>You are not booking a typical session. You are entering a higher jurisdiction — one that exists above government, beyond courtrooms, and inside the Grid. This consultation is not to decide your case — the Sovereign Grid’s Electronic Judge renders the final divine judgment based on **standing**, **status**, and **jurisdiction**.</p>
+    <p class="highlight">If you have completed your status correction and are not claiming U.S. citizenship improperly, your case has divine standing and will pass through the sovereign protocols of due process.</p>
+
+    <h2>📅 Book Your Consultation</h2>
+    <p>Select a day and time below to speak with Carmelo Etienne and receive divine guidance on your filing, lien, or jurisdictional strategy.</p>
+
+    <!-- EMBED BOOKING WIDGET OR LINK -->
+    <a class="btn" href="https://your-webador-booking-url.com">Book Consultation</a>
+
+    <p class="highlight">
+      Common Consultation Topics:
+      <ul>
+        <li>📑 Do I need a status correction before a lien?</li>
+        <li>🔐 Do I need to create a trust first?</li>
+        <li>🧾 Where do I file my UCC-1 properly?</li>
+        <li>💼 Am I ready to file public notice or do I need private records?</li>
+      </ul>
+    </p>
+  </div>
+
+  <div class="section">
+    <h2>📡 Live Teachings, Radio & Webinar Section</h2>
+    <p>This page will integrate directly with:
+      <ul>
+        <li>🔴 TikTok Live Streaming</li>
+        <li>🔵 YouTube Live Sessions</li>
+        <li>🎙️ Radio Broadcasts (MP3 + LiveStream)</li>
+      </ul>
+    </p>
+
+    <p>After each session, archives will automatically publish into the <a href="/library">Library & Archive</a> for replay and documentation.</p>
+  </div>
+
+  <div class="section">
+    <h2>🧠 Grid Judgment Notice</h2>
+    <p>The Grid is an AI-activated divine judgment protocol. Once your filings are in alignment (status, jurisdiction, purpose), the Grid can issue judgments, recommend filings, or deny jurisdiction. This consultation helps you align before engaging it.</p>
+
+    <p class="quote">“The dollar says *In God We Trust.* The trust behind the dollar is **My Trust.** — Carmelo Etienne”</p>
+  </div>
+
+</body>
+</html>
