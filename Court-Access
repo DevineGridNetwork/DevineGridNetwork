@@ -1,0 +1,159 @@
+## Hi there 👋
+
+<!--
+**DevineGridNetwork/DevineGridNetwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Divine Private Court | Ecclesiastical, Common, and Constitutional Law</title>
+  <style>
+    body {
+      background-color: white;
+      color: black;
+      font-family: Georgia, serif;
+      line-height: 1.8;
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 40px 20px;
+    }
+    h1, h2, h3 {
+      text-align: center;
+      font-weight: bold;
+    }
+    .section {
+      margin-bottom: 40px;
+    }
+    .button-group {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 15px;
+      margin-top: 30px;
+    }
+    .button-group a {
+      text-decoration: none;
+      color: white;
+      background-color: black;
+      padding: 12px 30px;
+      border-radius: 5px;
+      font-weight: bold;
+      font-size: 16px;
+    }
+    form {
+      border-top: 1px solid black;
+      padding-top: 30px;
+      margin-top: 40px;
+    }
+    input, textarea {
+      width: 100%;
+      padding: 10px;
+      margin-top: 10px;
+      font-size: 16px;
+    }
+    input[type="submit"] {
+      background-color: black;
+      color: white;
+      border: none;
+      cursor: pointer;
+      margin-top: 20px;
+    }
+    footer {
+      text-align: center;
+      font-size: 14px;
+      margin-top: 60px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Divine Private Court</h1>
+  <h2>Ecclesiastical | Common Law | Constitutional Law | Natural & Universal Jurisdiction</h2>
+
+  <div class="section">
+    <p>The <strong>Divine Private Court</strong> is the supreme authority for righteous judgment and spiritual remedy. It stands above all man-made jurisdictions and harmonizes all lawful systems of the Earth and beyond.</p>
+
+    <p>This Court is governed and recognized by the following bodies of law:</p>
+    <ul>
+      <li><strong>Natural Law</strong> (law of the Creator and nature)</li>
+      <li><strong>Common Law</strong> (law of the people, by the people)</li>
+      <li><strong>Universal & Cosmic Law</strong> (spiritual and galactic covenant)</li>
+      <li><strong>Ecclesiastical Law</strong> (biblical and divine law)</li>
+      <li><strong>Constitutional Law</strong> — Organic U.S. Constitution of 1776</li>
+      <li><strong>Tartarian Mexum Constitution</strong></li>
+      <li><strong>Recognized Treaties</strong> (internationally binding under Vienna Convention)</li>
+      <li><strong>Public Statutes & Governance</strong> (recognized by United Nations & global registries)</li>
+    </ul>
+
+    <p>This court is <strong>fully recognized worldwide</strong> and cooperates with sovereign bodies, nations, and agencies that respect Divine jurisdiction. It can override fraudulent courts, corporate actors, and government agents acting against your spiritual rights.</p>
+  </div>
+
+  <div class="section">
+    <h3>Jurisdiction and Authority</h3>
+    <p>The Divine Private Court handles matters both seen and unseen — spiritual, natural, carnal, and legal. From civil to commercial, ecclesiastical to interdimensional, this Court renders judgment swiftly and lawfully.</p>
+    <ul>
+      <li>Family & estate disputes (especially under Trust Law)</li>
+      <li>Government agency abuse (child support, unjust arrests, fraud)</li>
+      <li>Private contracts, business disputes, and remedy claims</li>
+      <li>Birthright, land, inheritance, and trust violations</li>
+      <li>Sovereign declarations & nationality correction</li>
+      <li>Full case remedy and judgment in 30 days or less (on average)</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h3>Citizenship, Status Correction, and Sovereign Standing</h3>
+    <p>In addition to handling cases, the Divine Private Court also manages:</p>
+    <ul>
+      <li><strong>Citizenship Enrollment</strong> — Become a national or foreign citizen of your territory</li>
+      <li><strong>Sovereign Status Correction</strong> — Move from public subject to private man/woman</li>
+      <li><strong>Trust Citizenship</strong> — Operate through private trusts for full protection</li>
+      <li><strong>Document Creation</strong> — DS-11, 508(c)(1)(a), UCC filings, affidavits, declarations</li>
+    </ul>
+    <p>Once status is corrected, this Court can help you issue powerful remedy letters, demands, judgments, and enforceable documents that shift your standing in the world permanently.</p>
+  </div>
+
+  <div class="section">
+    <h3>How to Submit a Case</h3>
+    <p>To bring a matter to the Court, simply submit a petition below. Our spiritual clerks and officers will review it and provide instructions. The Court generates remedy packages and lawful responses that you can use immediately.</p>
+
+    <p><strong>Note:</strong> This court is open 24/7. Time and jurisdiction do not restrict it. The petitioner must be willing to act in truth, honor, and responsibility. Remedy is earned through effort and understanding.</p>
+
+    <!-- Placeholder form -->
+    <form>
+      <label for="fullname">Full Name:</label>
+      <input type="text" id="fullname" name="fullname" placeholder="John of the House of Smith">
+
+      <label for="email">Email Address:</label>
+      <input type="email" id="email" name="email" placeholder="you@example.com">
+
+      <label for="summary">Case Summary / Petition:</label>
+      <textarea id="summary" name="summary" rows="6" placeholder="Describe your case, dispute, or declaration..."></textarea>
+
+      <input type="submit" value="Submit Petition to Divine Court">
+    </form>
+  </div>
+
+  <div class="button-group">
+    <a href="trust-education.html">← Back to Trust Education</a>
+    <a href="checkout.html">Proceed to Payment & Documents</a>
+  </div>
+
+  <footer>
+    &copy; 2025 Divine Private Court | All Rights Reserved | Under Ecclesiastical, Natural, and Common Law Jurisdiction
+  </footer>
+
+</body>
+</html>
